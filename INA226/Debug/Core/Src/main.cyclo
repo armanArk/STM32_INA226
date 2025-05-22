@@ -1,0 +1,11 @@
+../Core/Src/main.c:91:6:INA226_Init	4
+../Core/Src/main.c:126:6:INA226_ReadCurrent	2
+../Core/Src/main.c:151:6:debugFTDI	2
+../Core/Src/main.c:170:6:processUart1Command	7
+../Core/Src/main.c:224:6:HAL_UART_RxCpltCallback	7
+../Core/Src/main.c:260:5:main	3
+../Core/Src/main.c:323:6:SystemClock_Config	3
+../Core/Src/main.c:373:13:MX_I2C1_Init	2
+../Core/Src/main.c:407:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:440:13:MX_GPIO_Init	1
+../Core/Src/main.c:476:6:Error_Handler	1
